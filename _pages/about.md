@@ -7,4 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-我的个人主页
+I'm a third year undergraduate student from [School of SXU](https://www.sxu.edu.cn/). My research interest includes person-ReID, knowledge-distillation, Vision-Transformer, Domain-Generalization.
